@@ -173,7 +173,6 @@
     margin: 0 0 27px 65px;
     font-family: Raleway, sans-serif;
     font-weight: 700;
-    font-style: Bold;
     font-size: 40px;
     line-height: 1.175;
     letter-spacing: 0%;
@@ -231,7 +230,6 @@
     z-index: 2;
     font-family: Raleway, sans-serif;
     font-weight: 700;
-    font-style: Bold;
     font-size: 22px;
     line-height: 1.2;
     letter-spacing: 0%;
@@ -309,9 +307,8 @@
 
 .about__title {
     margin: 136px 0 100px;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-weight: 700;
-    font-style: Bold;
     font-size: 40px;
     line-height: 1;
     letter-spacing: 0%;
